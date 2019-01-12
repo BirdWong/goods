@@ -1,0 +1,55 @@
+#inner{
+	margin-left: auto;
+    margin-right: auto;
+    min-height: 364px;
+    min-width: 320px;
+    max-width: 412px;
+    width: calc(100% - 40px);
+    padding: 36px;
+    margin-bottom: 28px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 3px rgba(0,0,0,.55);
+    -moz-box-shadow: 0 2px 3px rgba(0,0,0,.55);
+    box-shadow: 0 2px 3px rgba(0,0,0,.55);
+    border: 1px solid #818c94;
+    border: 1px solid rgba(0,0,0,.4);
+}
+.main{
+	margin-left: 600px;
+	margin-top: 200px;
+	}
+.imageDiv{float: left;}
+.img{width: 400px;}
+.loginTopDiv {padding: 30px;}
+.loginTop {color: #696969; font-size: 20px; font-weight: 900;}
+.registBtn {
+	background: url(/images/login_sprites_20110808.png);
+	display: inline-block;
+	background-position: 0px -46px;
+	height: 24px;
+	width: 73px;	
+	margin-left: 250px;
+}
+.registBtn:HOVER {
+	background: url(/images/login_sprites_20110808.png);
+	display: inline-block;
+	background-position: -73px -46px;
+	height: 24px;
+	width: 73px;
+	margin-left: 250px;
+}
+
+
+
+table {margin-left: 30px;font-size: 10pt;color: #404040;}
+.input {width: 235px;height: 26px;border: 1px solid #d9d9d9;padding-top: 4px;padding-left: 8px;}
+.yzm {width: 90px;height: 26px;border: 1px solid #d9d9d9;vertical-align: middle; margin-right: 30px;padding-top: 4px;padding-left: 8px;}
+label.error {color:#cc3300;font-weight: 900;}
+#vCode {margin-right: 30px; vertical-align: middle;width: 70px;height: 26px;border: 1px solid #000;}
+.loginBtn {border: 0px; width: 92px; height: 27px;}
+
+
+
+
+
+
